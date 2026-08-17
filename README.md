@@ -36,6 +36,7 @@ Further analysis will be conducted using SQL and Power BI as part of the continu
 
 ## Project Files
 
-- `Raw Dataset` – Original uncleaned dataset
-- `Cleaned Dataset` – Dataset after data cleaning
-- `Excel Dashboard` – Final Excel dashboard
+- `Retail_Sales_Dataset` – Excel workbook containing;
+    * Raw Dataset - Original uncleaned dataset
+    * Cleaned Dataset - Cleaned and prepared dataset
+    * Excel Dashboard - Final interactive dashboard
