@@ -1,76 +1,156 @@
-# Retail-Sales-Analysis
-Retail sales data cleaning, analysis and dashboard project using Microsoft Excel.
+# Retail Sales Analysis Dashboard
+
+An end-to-end retail sales analysis project using Microsoft Excel to clean, analyze, and visualize sales data through an interactive dashboard.
 
 ## Project Overview
-This project focuses on cleaning a messy retail sales dataset, analyzing sales performance, and creating an interactive Excel Dashboard to identify trends and patterns in the data.
 
-## Tools Used
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Data Cleaning
-- Data Visualization
+This project analyzes retail sales data to identify sales trends, product performance, customer purchasing patterns, regional performance, payment behavior, and return activity.
 
-## Project Process
-1. Cleaned and organized the raw retail sales dataset
-2. Removed inconsistencies and corrected data issues
-3. Created PivotTables for analysis
-4. Analyzed sales by sales representative, category, state, product, payment method, and month
-5. Built an interactive sales dashboard
-6. Identified key sales trends and patterns
+The project involved cleaning a raw dataset, performing analysis with PivotTables and PivotCharts, and building an interactive Excel dashboard with KPIs and slicers.
+
+## Objectives
+
+The main objectives of this project were to:
+
+* Clean and prepare a messy retail sales dataset
+* Analyze overall sales performance
+* Identify high- and low-performing products
+* Compare revenue across states
+* Analyze sales representative performance
+* Examine payment method usage
+* Track monthly revenue trends
+* Analyze product returns
+* Build an interactive dashboard for decision-making
+
+## Tools & Techniques
+
+* Microsoft Excel
+* PivotTables
+* PivotCharts
+* Slicers
+* Excel formulas
+* Data cleaning
+* Data visualization
+* KPI analysis
+
+## Data Cleaning
+
+The original dataset contained inconsistencies and missing/unknown values.
+
+The cleaning process included:
+
+* Identifying and correcting inconsistent values
+* Handling missing values
+* Standardizing categorical fields
+* Creating calculated fields such as Revenue and Month
+* Checking data consistency
+* Preparing the cleaned dataset for analysis
 
 ## Dashboard
-The dashboard provides insights into:
 
-- Sales performance by sales representative
-- Sales by product category
-- Monthly revenue
-- Revenue by state
-- Product sales
-- Sales by payment method
+The final dashboard provides an interactive overview of the retail business.
 
-  ## Key Findings
-The analysis revealed differences in sales performance across representatives, products, states, and payment methods.
-Further analysis will be conducted using SQL and Power BI as part of the continued development of this project.
+### Key KPIs
 
-## Dashboard
+* Total Revenue: ₦1,081,074,000
+* Total Orders: 3,000
+* Total Quantity Sold: 7,884
+* Average Order Value: ₦360,358
+* Return Rate: 17.93%
 
-The Excel dashboard provides an interactive overview of retail sales performance. It includes key performance indicators, slicers, and visualizations covering revenue, orders, quantity, average order value, return rate, products, states, payment methods, sales representatives, and monthly trends.
+### Dashboard Analysis
+
+The dashboard includes:
+
+* Sales by Representative
+* Revenue by Category
+* Product Revenue
+* Monthly Revenue
+* Revenue by State
+* Payment Method Analysis
+* Interactive slicers for filtering the dashboard
 
 ## Key Insights
 
-* Chioma generated the highest sales revenue among the sales representatives.
-* Tunde recorded the lowest revenue among the representatives.
-* Electronics contributed the largest share of revenue.
-* Laptops generated the highest product revenue.
-* Lagos recorded the highest revenue among the states analyzed.
-* Bank Transfer was the most frequently used payment method.
-* The overall return rate was approximately 17.93%.
-* Monthly revenue fluctuated across the period, with noticeable increases and decreases that may require further investigation.
+### Sales Representative Performance
 
-## Dashboard Preview
+Chioma generated the highest revenue among the sales representatives, while Tunde recorded the lowest revenue.
 
-![Retail Sales Dashboard](Retail%20Sales%20Dashboard%20Preview.png)
+This suggests an opportunity to investigate differences in workload, territory, customer allocation, or sales performance.
 
-## Report Preview
+### Category Performance
 
-![Dashboard Report - Part 1](Retail%20Sales%20Analysis%20Report1.png)
+Electronics generated the largest share of revenue, indicating that the business is heavily dependent on this category.
 
-![Dashboard Report - Part 2](Retail%20Sales%20Analysis%20Report2.png)
+This could represent an opportunity for further investment, while also highlighting the risk of over-reliance on a single category.
+
+### Product Performance
+
+Laptops generated the highest product revenue, while mice contributed the least.
+
+This suggests that pricing, demand, product positioning, or promotional strategies could be reviewed for lower-performing products.
+
+### Regional Performance
+
+Lagos generated the highest revenue among the states, while Abuja recorded the lowest.
+
+This could be investigated further to understand differences in customer demand, marketing reach, and sales opportunities across locations.
+
+### Payment Behavior
+
+Bank Transfer was the most frequently used payment method, indicating a strong customer preference for this payment channel.
+
+### Revenue Trend
+
+Monthly revenue fluctuated throughout the period, with noticeable increases and decreases across different months.
+
+The lower-performing months could be investigated further for possible seasonal effects, campaign performance, inventory issues, or changes in customer demand.
+
+### Return Rate
+
+The dashboard recorded a return rate of approximately **17.93%**.
+
+This is significant enough to warrant further investigation into product-level return patterns, customer expectations, product quality, and order fulfillment.
 
 ## Project Files
 
-* **Retail_Sales_Dataset_Org.xlsx** — Original and cleaned retail sales dataset.
-* **Retail Sales Analysis Dashboard.xlsx** — Completed Excel dashboard and analysis.
-* **Retail Sales Dashboard Preview.png** — Dashboard preview.
-* **Retail Sales Analysis Report1.png** — Dashboard report preview, part 1.
-* **Retail Sales Analysis Report2.png** — Dashboard report preview, part 2.
+| File                                   | Description                                       |
+| -------------------------------------- | ------------------------------------------------- |
+| `Retail_Sales_Dataset_Org.xlsx`        | Original retail sales dataset                     |
+| `Retail Sales Analysis Dashboard.xlsx` | Cleaned data, analysis, and interactive dashboard |
+| `Retail Sales Dashboard Preview.png`   | Dashboard preview                                 |
+| `Retail Sales Analysis Report1.png`    | Analysis report screenshot                        |
+| `Retail Sales Analysis Report2.png`    | Analysis report screenshot                        |
 
+## Project Workflow
 
+```text
+Raw Dataset
+     ↓
+Data Cleaning
+     ↓
+Data Preparation
+     ↓
+PivotTable Analysis
+     ↓
+PivotCharts
+     ↓
+KPI Development
+     ↓
+Interactive Slicers
+     ↓
+Excel Dashboard
+     ↓
+Business Insights
+```
 
-## Project Files
+## Conclusion
 
-- `Retail_Sales_Dataset` – Excel workbook containing;
-    * Raw Dataset - Original uncleaned dataset
-    * Cleaned Dataset - Cleaned and prepared dataset
-    * Excel Dashboard - Final interactive dashboard
+This project demonstrates how Microsoft Excel can be used to transform raw retail data into meaningful business insights.
+
+The final dashboard provides a single interactive view of revenue, orders, quantity sold, product performance, regional performance, payment behavior, sales representatives, monthly trends, and returns.
+
+## Author
+Ezekiel Oyedele
+
+Data Analytics | Microsoft Excel | Data Visualization
