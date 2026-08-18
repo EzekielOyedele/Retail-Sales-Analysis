@@ -1,12 +1,33 @@
 # Retail Sales Analysis Dashboard
 
-An end-to-end retail sales analysis project using Microsoft Excel to clean, analyze, and visualize sales data through an interactive dashboard.
+An end-to-end retail sales analytics project using Microsoft Excel to transform raw sales data into actionable business insights through data cleaning, analysis, KPI development, and interactive dashboard design.
+
+### Project Snapshot
+
+| Metric | Result |
+|---|---:|
+| 💰 Total Revenue | ₦1,081,074,000 |
+| 🛒 Total Orders | 3,000 |
+| 📦 Quantity Sold | 7,884 |
+| 📊 Average Order Value | ₦360,358 |
+| ↩️ Return Rate | 17.93% |
+| 🛠️ Primary Tool | Microsoft Excel |
 
 ## Project Overview
 
-This project analyzes retail sales data to identify sales trends, product performance, customer purchasing patterns, regional performance, payment behavior, and return activity.
+This project analyzes a retail sales dataset to evaluate overall business performance and identify patterns across products, categories, regions, sales representatives, payment methods, monthly revenue, and product returns.
 
-The project involved cleaning a raw dataset, performing analysis with PivotTables and PivotCharts, and building an interactive Excel dashboard with KPIs and slicers.
+The analysis was designed to answer key business questions such as:
+
+- Which products and categories generate the most revenue?
+- Which states and sales representatives perform best?
+- How does revenue change over time?
+- Which payment methods are most commonly used?
+- What proportion of orders are returned?
+
+The raw dataset was cleaned and prepared in Microsoft Excel before being analyzed using PivotTables, PivotCharts, calculated fields, KPIs, and interactive slicers.
+
+The final output is an interactive Excel dashboard that brings these metrics and insights together in a single view to support data-driven decision-making.
 
 ## Objectives
 
