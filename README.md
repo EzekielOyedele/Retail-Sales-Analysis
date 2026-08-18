@@ -115,47 +115,54 @@ The dashboard provides visual analysis across the following areas:
 - **Interactive Slicers** — allows users to filter and explore the dashboard dynamically.
 
 The dashboard combines KPI cards, charts, and interactive filters to provide a consolidated view of business performance.
+
 ## Key Insights
+
+The analysis revealed several notable patterns across sales performance, products, regions, payment methods, revenue trends, and returns.
 
 ### Sales Representative Performance
 
-Chioma generated the highest revenue among the sales representatives, while Tunde recorded the lowest revenue.
+Chioma generated the highest revenue among the sales representatives, while Tunde recorded the lowest.
 
-This suggests an opportunity to investigate differences in workload, territory, customer allocation, or sales performance.
+The performance gap may warrant further investigation into territory allocation, customer distribution, workload, and individual sales performance.
 
 ### Category Performance
 
-Electronics generated the largest share of revenue, indicating that the business is heavily dependent on this category.
+Electronics generated the largest share of revenue among the product categories.
 
-This could represent an opportunity for further investment, while also highlighting the risk of over-reliance on a single category.
+This indicates that electronics is a major contributor to overall revenue. While this represents a strong-performing category, the business may also benefit from monitoring its level of dependence on a single category.
 
 ### Product Performance
 
 Laptops generated the highest product revenue, while mice contributed the least.
 
-This suggests that pricing, demand, product positioning, or promotional strategies could be reviewed for lower-performing products.
+The difference in product performance could be investigated further using factors such as pricing, demand, product positioning, sales volume, and promotional activity.
 
 ### Regional Performance
 
 Lagos generated the highest revenue among the states, while Abuja recorded the lowest.
 
-This could be investigated further to understand differences in customer demand, marketing reach, and sales opportunities across locations.
+This variation highlights differences in regional sales performance and creates an opportunity to investigate customer demand, market reach, marketing activity, and sales opportunities across locations.
 
 ### Payment Behavior
 
-Bank Transfer was the most frequently used payment method, indicating a strong customer preference for this payment channel.
+Bank Transfer was the most frequently used payment method in the dataset.
+
+This shows that bank transfer represented the largest share of recorded payment transactions. Further analysis could examine whether payment method varies by location, customer segment, order value, or product category.
 
 ### Revenue Trend
 
-Monthly revenue fluctuated throughout the period, with noticeable increases and decreases across different months.
+Monthly revenue fluctuated throughout the reporting period, with noticeable increases and decreases across different months.
 
-The lower-performing months could be investigated further for possible seasonal effects, campaign performance, inventory issues, or changes in customer demand.
+The variation suggests that further analysis could be used to investigate possible seasonal patterns, promotional activity, inventory availability, or changes in customer demand.
 
 ### Return Rate
 
-The dashboard recorded a return rate of approximately **17.93%**.
+The dashboard recorded an overall return rate of approximately **17.93%**.
 
-This is significant enough to warrant further investigation into product-level return patterns, customer expectations, product quality, and order fulfillment.
+This is a notable proportion of orders and warrants further investigation into the products, categories, regions, and other factors associated with returned orders.
+
+A deeper return analysis could help identify recurring patterns and potential opportunities to improve product quality, customer expectations, and order fulfillment.
 
 ## Project Files
 
