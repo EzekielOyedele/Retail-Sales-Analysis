@@ -166,23 +166,31 @@ A deeper return analysis could help identify recurring patterns and potential op
 
 ## Project Files
 
-| File                                   | Description                                       |
-| -------------------------------------- | ------------------------------------------------- |
-| `Retail_Sales_Dataset_Org.xlsx`        | Original retail sales dataset                     |
-| `Retail Sales Analysis Dashboard.xlsx` | Cleaned data, analysis, and interactive dashboard |
-| `Retail Sales Dashboard Preview.png`   | Dashboard preview                                 |
-| `Retail Sales Analysis Report1.png`    | Analysis report screenshot                        |
-| `Retail Sales Analysis Report2.png`    | Analysis report screenshot                        |
+| File | Description |
+|---|---|
+| [`Retail_Sales_Dataset_Org.xlsx`](Retail_Sales_Dataset_Org.xlsx) | Original retail sales dataset used for the analysis |
+| [`Retail Sales Analysis Dashboard.xlsx`](Retail%20Sales%20Analysis%20Dashboard.xlsx) | Cleaned data, analysis, KPIs, and interactive Excel dashboard |
+| [`Retail Sales Dashboard Preview.png`](Retail%20Sales%20Dashboard%20Preview.png) | Preview of the completed dashboard |
+| [`Retail Sales Analysis Report1.png`](Retail%20Sales%20Analysis%20Report1.png) | Analysis report preview |
+| [`Retail Sales Analysis Report2.png`](Retail%20Sales%20Analysis%20Report2.png) | Analysis report preview |
 
 ## Dashboard Preview
 
+The following preview shows the final interactive Excel dashboard developed from the cleaned retail sales dataset.
+
 ![Retail Sales Dashboard](Retail%20Sales%20Dashboard%20Preview.png)
 
-## Dashboard Report
+## Analysis Report
 
-![Dashboard Report 1](Retail%20Sales%20Analysis%20Report1.png)
+The supporting analysis reports provide additional views of the analysis and underlying findings.
 
-![Dashboard Report 2](Retail%20Sales%20Analysis%20Report2.png)
+### Report Preview 1
+
+![Retail Sales Analysis Report 1](Retail%20Sales%20Analysis%20Report1.png)
+
+### Report Preview 2
+
+![Retail Sales Analysis Report 2](Retail%20Sales%20Analysis%20Report2.png)
 
 ## Project Workflow
 
