@@ -213,14 +213,32 @@ Excel Dashboard
      ↓
 Business Insights
 ```
+## Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+* Data cleaning and preparation
+* Exploratory data analysis
+* Microsoft Excel
+* PivotTables and PivotCharts
+* KPI development
+* Interactive dashboard design
+* Data visualization
+* Business insight generation
+* Analytical storytelling
 
 ## Conclusion
 
-This project demonstrates how Microsoft Excel can be used to transform raw retail data into meaningful business insights.
+This project demonstrates how Microsoft Excel can be used to transform raw retail transaction data into structured analysis and meaningful business insights.
 
-The final dashboard provides a single interactive view of revenue, orders, quantity sold, product performance, regional performance, payment behavior, sales representatives, monthly trends, and returns.
+Through data cleaning, analysis, KPI development, visualization, and dashboard design, the project provides a consolidated view of retail performance across products, categories, regions, sales representatives, payment methods, revenue trends, and returns.
+
+The analysis also highlights areas that could benefit from deeper investigation, particularly product returns, regional performance, category concentration, and differences in sales representative performance.
+
+Overall, the project demonstrates the complete process of moving from raw data to an interactive analytical solution.
 
 ## Author
-Ezekiel Oyedele
+
+**Ezekiel Oyedele**
 
 Data Analytics | Microsoft Excel | Data Visualization
