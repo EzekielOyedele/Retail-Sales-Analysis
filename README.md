@@ -122,6 +122,16 @@ This is significant enough to warrant further investigation into product-level r
 | `Retail Sales Analysis Report1.png`    | Analysis report screenshot                        |
 | `Retail Sales Analysis Report2.png`    | Analysis report screenshot                        |
 
+## Dashboard Preview
+
+![Retail Sales Dashboard](Retail%20Sales%20Dashboard%20Preview.png)
+
+## Dashboard Report
+
+![Dashboard Report 1](Retail%20Sales%20Analysis%20Report1.png)
+
+![Dashboard Report 2](Retail%20Sales%20Analysis%20Report2.png)
+
 ## Project Workflow
 
 ```text
