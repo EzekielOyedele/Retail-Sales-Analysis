@@ -43,29 +43,49 @@ The main objectives of this project were to:
 * Analyze product returns
 * Build an interactive dashboard for decision-making
 
-## Tools & Techniques
+## Tools & Technologies
 
 * Microsoft Excel
+* Excel Tables
+* Excel formulas
 * PivotTables
 * PivotCharts
 * Slicers
-* Excel formulas
-* Data cleaning
+* Data cleaning and preparation
+* KPI development
 * Data visualization
-* KPI analysis
 
-## Data Cleaning
+## Dataset
 
-The original dataset contained inconsistencies and missing/unknown values.
+The dataset contains 3,000 retail sales transactions covering customer orders, products, categories, sales representatives, locations, payment methods, quantities sold, revenue, and returns.
 
-The cleaning process included:
+The dataset was prepared with inconsistencies and missing or unknown values to simulate a realistic data cleaning and analysis workflow.
 
-* Identifying and correcting inconsistent values
-* Handling missing values
-* Standardizing categorical fields
-* Creating calculated fields such as Revenue and Month
-* Checking data consistency
-* Preparing the cleaned dataset for analysis
+Key data fields include:
+
+* Order information
+* Product and category
+* Sales representative
+* State/region
+* Payment method
+* Quantity sold
+* Revenue
+* Return status
+* Transaction date
+
+## Data Preparation & Analysis
+
+The raw dataset required preparation before analysis. The following steps were performed in Microsoft Excel:
+
+* Identified inconsistent and missing values
+* Standardized categorical fields
+* Checked records for data consistency
+* Created calculated fields for revenue and month
+* Prepared the cleaned dataset for analysis
+* Built PivotTables to summarize key business metrics
+* Developed PivotCharts to visualize performance
+* Added slicers for interactive filtering
+* Created KPI metrics for high-level performance monitoring
 
 ## Dashboard
 
